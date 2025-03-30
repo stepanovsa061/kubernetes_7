@@ -11,8 +11,11 @@
 5) Продемонстрировать, что файл сохранился на локальном диске ноды. Удалить PV. Продемонстрировать что произошло с файлом после удаления PV. Пояснить, почему.
 6) Предоставить манифесты, а также скриншоты или вывод необходимых команд.
 
+![1 1](https://github.com/user-attachments/assets/9de1c55b-c631-43b2-9cb7-4345f299f1b5)
 
+![1 2](https://github.com/user-attachments/assets/13130522-2011-45e7-a77f-befab1162eb5)
 
+![1 3](https://github.com/user-attachments/assets/3b671611-6874-4dc6-bba4-588570448b82)
 
 
 # Задание 2
@@ -23,3 +26,14 @@
 2) Создать Deployment приложения состоящего из multitool, и подключить к нему PV, созданный автоматически на сервере NFS.
 3) Продемонстрировать возможность чтения и записи файла изнутри пода.
 4) Предоставить манифесты, а также скриншоты или вывод необходимых команд.
+
+![2 1](https://github.com/user-attachments/assets/42525ef0-a973-4f7f-9417-7871c742a21b)
+
+![2 2](https://github.com/user-attachments/assets/ccae550b-d3ce-4fe1-a671-e11c561afbf2)
+
+![2 3 source](https://github.com/user-attachments/assets/5d92a5ff-a93f-47e8-8016-d3db58753e33)
+
+![2 4](https://github.com/user-attachments/assets/68a4c814-f4e7-4aa4-b96a-9ac28ce07108)
+
+
+
